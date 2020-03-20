@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\packages",
+    "\\packages\\sdl2_image.v140.redist.2.0.1",
+    "\\packages\\sdl2_image.v140.redist.2.0.1\\build",
+    "\\packages\\sdl2_image.v140.redist.2.0.1\\build\\native",
+    "\\packages\\sdl2_image.v140.redist.2.0.1\\build\\native\\bin",
+    "\\packages\\sdl2_image.v140.redist.2.0.1\\build\\native\\bin\\Win32",
+    "\\packages\\sdl2_image.v140.redist.2.0.1\\build\\native\\bin\\Win32\\Release",
+    "\\packages\\sdl2_image.v140.redist.2.0.1\\build\\native\\bin\\x64"
+  ],
+  "SelectedNode": "\\packages\\sdl2_image.v140.redist.2.0.1\\build\\native\\bin\\Win32\\Release\\SDL2_image.dll",
+  "PreviewInSolutionExplorer": false
+}
